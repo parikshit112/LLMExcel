@@ -1,4 +1,4 @@
-# Infobot Excel Analyzer
+# Excel Analyzer
 This is the GitHub repository for the Infobot Excel sheet analysis feature. It contains the project's source code, and installation instructions.
 
 ## Installation
